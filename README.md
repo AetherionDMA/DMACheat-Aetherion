@@ -46,4 +46,5 @@ This repository is for educational and research purposes only. The use of DMA fo
 - Hardware-based detection methods are evolving; use at your own risk.
 
 🚀 **Stay informed, stay secure!**
+Join the community on Discord: [Click here to join the Discord](https://discord.gg/E6KT5Zp8)
 
