@@ -47,6 +47,6 @@ This repository is for educational and research purposes only. The use of DMA fo
 - This setup is commonly used to bypass traditional software-based anti-cheats like Easy Anti-Cheat (EAC) and BattlEye.
 - Hardware-based detection methods are evolving; use at your own risk.
 
-### 📌 Notes:
+### 📌 Stay Tuned:
 Join the community on Discord: [Click here to join the Discord](https://discord.gg/E6KT5Zp8)
 
