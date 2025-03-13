@@ -9,3 +9,7 @@ Aetherion DMA è una community creata con l'obiettivo di combattere le frodi nel
 🔒 **Affidabilità e fiducia**: La community di Aetherion DMA è stata creata per combattere le frodi nel settore e promuovere acquisti sicuri e trasparenti.
 
 🚫 Se desideri evitare le truffe e acquistare dispositivi e software DMA a prezzi equi senza compromessi, Aetherion DMA è la scelta giusta.
+
+
+## 📌 Stay Tuned:
+If you are looking for a buying guide or a place to ask for help with setup join the community on Discord: [Click here to join the Discord](https://discord.gg/E6KT5Zp8)
