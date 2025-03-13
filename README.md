@@ -1,6 +1,5 @@
 # Direct Memory Access (DMA) Cheats - How It Works
 
-![DMA Cheat Diagram](https://static.wixstatic.com/media/d538b7_d51bd29f566d4df49da50de069500814~mv2.png/v1/fill/w_1874,h_938,al_c,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto/%D0%9A%D0%B0%D0%BA%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%D0%B5%D1%82%20%D0%B4%D0%BC%D0%B0%20%D1%87%D0%B8%D1%82%20v2.png?quality=lossless)
 
 ## 🛠️ How Does It Work?
 DMA (Direct Memory Access) allows external hardware to read a computer's memory without direct intervention from the operating system or software. This technique is commonly used for hardware-assisted cheats in gaming, enabling undetectable data extraction and manipulation.
