@@ -1,4 +1,4 @@
-# Direct Memory Access (DMA) Cheats - How It Works
+# How Direct Memory Access (DMA) Cheats Works
 
 Join the community on Discord: [Click here to join the Discord](https://discord.gg/E6KT5Zp8)
 
