@@ -12,5 +12,3 @@ Aetherion DMA is a community created with the goal of combating fraud in the DMA
 
 
 
-## 📌 Stay Tuned:
-If you are looking for a buying guide or a place to ask for help with setup join the community on Discord: [Click here to join the Discord](https://discord.gg/E6KT5Zp8)
