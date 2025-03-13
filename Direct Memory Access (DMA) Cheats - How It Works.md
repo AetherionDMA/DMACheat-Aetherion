@@ -1,6 +1,6 @@
 # How Direct Memory Access (DMA) Works
 
-Join the community on Discord: [Click here to join the Discord](https://discord.gg/E6KT5Zp8)
+
 
 
 ## 🛠️ How Does It Work?
@@ -43,6 +43,4 @@ This repository is for educational and research purposes only. The use of DMA fo
 
 ---
 
-### 📌 Stay Tuned:
-If you are looking for a buying guide or a place to ask for help with setup join the community on Discord: [Click here to join the Discord](https://discord.gg/E6KT5Zp8)
 
