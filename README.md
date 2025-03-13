@@ -1,6 +1,6 @@
 # Aetherion DMA
 
-Aetherion DMA is a community created with the goal of combating fraud in the DMA device field. Here's why you should consider buying from Aetherion DMA:
+Aetherion DMA is a community created with the goal of combating fraud in the DMA device field. Here's why you should consider Aetherion DMA:
 
 💰 **Fair prices**: 70% of DMA device and software sellers tend to inflate prices by up to 400% compared to the actual value, justifying the high cost with the promise of post-purchase support.
 
