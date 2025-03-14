@@ -1,6 +1,9 @@
 # How Direct Memory Access (DMA) Works
 
 
+## 📌 Social
+Join the community on Discord: [Click here to join the Discord](https://discord.gg/E6KT5Zp8)
+
 
 
 ## 🛠️ How Does It Work?
