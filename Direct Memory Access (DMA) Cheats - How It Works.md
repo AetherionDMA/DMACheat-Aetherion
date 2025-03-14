@@ -46,4 +46,7 @@ This repository is for educational and research purposes only. The use of DMA fo
 
 ---
 
+## 📌 Social
+Join the community on Discord: [Click here to join the Discord](https://discord.gg/E6KT5Zp8)
+
 
