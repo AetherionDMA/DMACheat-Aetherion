@@ -1,4 +1,4 @@
-## 𝗔𝗲𝘁𝗵𝗲𝗿𝗶𝗼𝗻 𝗗𝗠𝗔
+### 𝗔𝗲𝘁𝗵𝗲𝗿𝗶𝗼𝗻 𝗗𝗠𝗔
 
 Aetherion DMA is a community created with the goal of fighting fraud in the DMA cheat field. Here's why you should consider getting help from Aetherion DMA:
 
