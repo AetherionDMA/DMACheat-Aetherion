@@ -1,8 +1,5 @@
 ### 𝗔𝗲𝘁𝗵𝗲𝗿𝗶𝗼𝗻 𝗗𝗠𝗔
 
-## 📌 Social
-Join the community on Discord: [Click here to join the Discord](https://discord.gg/E6KT5Zp8)
-
 Aetherion DMA is a community created with the goal of fighting fraud in the DMA cheat field. Here's why you should consider getting help from Aetherion DMA:
 
 🔹 Fair prices: 70% of DMA device and software sellers tend to inflate prices by up to 400% compared to the actual value, justifying the high cost with the promise of post-purchase support.
