@@ -11,5 +11,5 @@ Aetherion DMA is a community created with the goal of fighting fraud in the DMA 
 If you want to avoid scams and buy DMA devices and software at fair prices without compromise, Aetherion DMA is the right choice.
 
 ## 📌 Social
-Join the community on Discord: [Click here to join the Discord](https://discord.gg/E6KT5Zp8)
+Join the community on Discord: [Click here to join the Discord](https://discord.gg/vNDbjpyPAA)  
 
